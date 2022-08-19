@@ -44,7 +44,7 @@ body{
   color: $bg;
   line-height: 60px;
   font-size: 36px;
-  font-weight: 700;
+  @include f700;
   margin-bottom: 30px;
 }
 .rate-star{
